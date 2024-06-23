@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Veriff.net", "Veriff.net\Veriff.net.csproj", "{BE8F1E7C-4714-4673-98B9-C2BC113CCE9F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Veriff.netTest", "VeriffTest\Veriff.netTest.csproj", "{5EB331A4-A5C6-4DEB-9794-825861092BA8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E282FA12-7B89-43BB-83F5-808662C6E04F}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE8F1E7C-4714-4673-98B9-C2BC113CCE9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE8F1E7C-4714-4673-98B9-C2BC113CCE9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE8F1E7C-4714-4673-98B9-C2BC113CCE9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE8F1E7C-4714-4673-98B9-C2BC113CCE9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EB331A4-A5C6-4DEB-9794-825861092BA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB331A4-A5C6-4DEB-9794-825861092BA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB331A4-A5C6-4DEB-9794-825861092BA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB331A4-A5C6-4DEB-9794-825861092BA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F799634C-5C46-4E60-926C-B27640CA6F98}
+	EndGlobalSection
+EndGlobal
